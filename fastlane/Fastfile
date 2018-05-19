@@ -1,0 +1,3 @@
+lane :test do
+  ding_talk_msg_push(token: "9e98343e7fbacf73fccbddd7b89a550e97946a949f4c2fb64eb5443ffd581896", text: "测试内容 ", at_all: true)
+end
